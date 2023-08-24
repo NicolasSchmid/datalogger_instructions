@@ -70,9 +70,6 @@ void setup(){ //The setup is recalled each time the micrcontroller wakes up from
     delay(2000); //wait 2 seconds to see the led and the screen 
 
     initialise_SD_card();  //read conf.txt file values and store them on RTC memory to access them rapidely, write header on data.csv
-  
-      Serial.println("test0");
-      delay(50);
 
     //initialise the RTC clock
     rtc.begin();
