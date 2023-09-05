@@ -1,4 +1,4 @@
-###Order and Design PCBs
+# Order and Design PCBs
 
 The PCB_order folder contains the PCB files needed to order a PCB (for example on JLCPCB).
 
