@@ -1,2 +1,2 @@
 # ISSKA Datalogger
-Code for data-loggers which control different sensors, measure them with a given time step and store their values on an SD card. All the informations you need are in the ISSKA instruction pdf
+The PCB folder contains all the hardware informations of the datalogger and the datalogger_code folder contains all the Arduino codes
